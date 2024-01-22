@@ -211,3 +211,6 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <a href="https://github.com/Ilvondir">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soullessness1611&card_width=100%&theme=radical" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
