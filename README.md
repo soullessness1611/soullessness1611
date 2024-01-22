@@ -208,10 +208,6 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <!-- <img src="https://wakatime.com/share/@SouLLesSNesS/4d2b5308-69c5-4a6e-9d8f-814493e0abe3.svg"></embed></figure> -->
 <!-- <img src="https://wakatime.com/share/@SouLLesSNesS/fce2a402-f73c-4400-a12a-0b94dddfe28e.svg"></embed></figure> -->
 
-<a href="https://github.com/Ilvondir">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soullessness1611&card_width=100%&theme=radical" />
-</a>
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
