@@ -1,6 +1,6 @@
-<!-- <img style="border-radius:20px; width:1065px; height: 266px;"
+<img style="border-radius:20px; width:1065px; height: 375px;"
     src="https://img.freepik.com/premium-photo/zen-stones-isolated-black-background-with-space-your-text-image_850140-1398.jpg"
-/> -->
+/>
 
 <div align="center">
 <img align="center"
