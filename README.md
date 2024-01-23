@@ -25,7 +25,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 - 🧠  I'm learning NextJS, Redux, Supabase, firebase and Chakra-UI
 - ⚡  In my free time I read tech articles and practice new framework and new language.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 📫 Connect with me:</h3>
 <div>
     
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:soullessness1611@gmail.com)](mailto:soullessness1611@gmail.com)&nbsp;
@@ -37,7 +37,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 </div>
 
 <br>
-<h2> My Tech Stack</h2>
+<h2> 🧑🏻‍💻 My Tech Stack</h2>
 
 ### 🧠 Data Science / Machine Learning / Deep Learning
 
