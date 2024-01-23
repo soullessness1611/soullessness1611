@@ -185,6 +185,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 
 </div>
 
+<!--
 <h2 align="center">👨‍💻⌚ WakaTime Tracking</h2>
 <div align="center">
     <details>
@@ -208,6 +209,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
         <img align="center" src="https://wakatime.com/share/@SouLLesSNesS/fa1d2bc4-6840-487f-9f4f-c46679be370a.svg">
     </details>
 </div>
+-->
 
 <!-- <img src="https://wakatime.com/share/@SouLLesSNesS/48199c4e-41c6-4589-a91c-111bc79d884e.svg"></embed></figure> -->
 <!-- <img src="https://wakatime.com/share/@SouLLesSNesS/653ecad0-edc8-419a-ba90-2a97714b7932.svg"></embed></figure> -->
@@ -234,5 +236,5 @@ Windows                  48 hrs 58 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
-
+<h2 align="center">📉📈 Github Metrics Stats</h2>
 ![Metrics](https://raw.githubusercontent.com/soullessness1611/soullessness1611/main/github-metrics.svg#gh-dark-mode-only)
