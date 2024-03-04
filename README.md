@@ -47,11 +47,11 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
     height=64px
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
 >
-<img
+<!-- <img
     alt="r"
     height=64px
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
->
+> -->
 <img
     alt="pandas"
     height=64px
