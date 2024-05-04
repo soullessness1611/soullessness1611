@@ -221,13 +221,13 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-Python                   15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
