@@ -69,7 +69,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 >
 <img
     alt= "seaborn"
-    src="https://www.programsbuzz.com/sites/default/files/logo/seaborn-logo.png"
+    src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"
     style="width: 60px;"
 >
 <img
