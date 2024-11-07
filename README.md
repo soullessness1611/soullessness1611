@@ -4,8 +4,9 @@
 
 <div align="center">
 <img align="center"
+    class="rounded-3"
     src="https://github.com/soullessness1611/soullessness1611/blob/main/2024-01-20_15-51-32.jpg"
-    style="width: 150px; border: 1px solid gray; border-radius: 50%; align-item:center;"
+    style="width: 150px; border: 1px solid gray; align-item:center;"
 />
 </div>
 
