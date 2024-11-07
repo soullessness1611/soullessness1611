@@ -4,7 +4,7 @@
 
 <div align="center">
 <img align="center"
-    src="https://github.com/soullessness1611/soullessness1611/blob/main/ZenMonk%20-%20Copy.png"
+    src="https://github.com/soullessness1611/soullessness1611/blob/main/2024-01-20_15-51-32.jpg"
     style="width: 150px; border-radius: 50%; align-item:center;"
 />
 </div>
