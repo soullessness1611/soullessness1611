@@ -175,10 +175,10 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 </div>
 
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
-<div align="center">
 <div width=400 height=200 align="center"> 
     ![soullessness1611 github-stats](https://stats.dooboo.io/api/github-stats?login=soullessness1611)
 </div>
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon)](https://git.io/streak-stats)
 
 <a href="#">
