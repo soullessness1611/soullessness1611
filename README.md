@@ -176,11 +176,11 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soullessness1611&show_icons=true&title_color=a855f7&text_color=f97316&icon_color=10b981&bg_color=181824&" >
 </a>
 <a href="#">
-<img height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soullessness1611&layout=compact&langs_count=20&theme=tokyonight&size_weight=0.5&count_weight=0.5" >
+<img width=400 height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soullessness1611&layout=compact&langs_count=20&theme=tokyonight&size_weight=0.5&count_weight=0.5" >
 </a>
 
 <a href="https://github.com/Ilvondir">
-    <img width=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soullessness1611&card_width=100%&theme=radical" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soullessness1611&card_width=100%&theme=radical" />
 </a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=soullessness1611&theme=tokyonight)
