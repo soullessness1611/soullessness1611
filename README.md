@@ -226,9 +226,9 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <!-- <img src="https://wakatime.com/share/@SouLLesSNesS/fce2a402-f73c-4400-a12a-0b94dddfe28e.svg"></embed></figure> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soullessness1611/soullessness1611/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soullessness1611/soullessness1611/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soullessness1611/soullessness1611/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soullessness1611/soullessness1611/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/soullessness1611/soullessness1611/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/soullessness1611/soullessness1611/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!--START_SECTION:waka-->
