@@ -37,6 +37,12 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
   
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <br>
 <h2> 🧑🏻‍💻 My Tech Stack</h2>
 
