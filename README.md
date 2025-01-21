@@ -38,9 +38,9 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soullessness1611/soullessness1611/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/soullessness1611/soullessness1611/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/soullessness1611/soullessness1611/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br>
@@ -230,12 +230,6 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <!-- <img src="https://wakatime.com/share/@SouLLesSNesS/653ecad0-edc8-419a-ba90-2a97714b7932.svg"></embed></figure> -->
 <!-- <img src="https://wakatime.com/share/@SouLLesSNesS/4d2b5308-69c5-4a6e-9d8f-814493e0abe3.svg"></embed></figure> -->
 <!-- <img src="https://wakatime.com/share/@SouLLesSNesS/fce2a402-f73c-4400-a12a-0b94dddfe28e.svg"></embed></figure> -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soullessness1611/soullessness1611/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/soullessness1611/soullessness1611/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/soullessness1611/soullessness1611/blob/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
