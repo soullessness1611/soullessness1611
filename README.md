@@ -143,7 +143,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 
 <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,k8s,ansible,nginx,markdown,neovim,lua,arch,npm,yarn &perline=10" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,k8s,ansible,nginx,markdown,neovim,vim,lua,apple,redhat,arch,pnpm,npm,yarn,jenkins,bash,obsidian,postman,linux,window perline=10" />
     </a>
 </p>
 
