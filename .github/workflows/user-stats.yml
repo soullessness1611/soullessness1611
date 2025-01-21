@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
       
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v3 #actions/checkout@v4
 
     - name: Generate the user stats image
       id: statsStep # Only needed if you want to check the exit-code
