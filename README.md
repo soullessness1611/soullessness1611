@@ -38,9 +38,9 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soullessness1611/soullessness1611/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/soullessness1611/soullessness1611/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/soullessness1611/soullessness1611/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soullessness1611/soullessness1611/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/soullessness1611/soullessness1611/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/soullessness1611/soullessness1611/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br>
