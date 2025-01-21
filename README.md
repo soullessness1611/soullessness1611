@@ -183,7 +183,9 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <img width=400 height=200 align="center" src="https://stats.dooboo.io/api/github-stats?login=soullessness1611">
 </a>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon)](https://git.io/streak-stats) -->
+<a href="https://git.io/streak-stats">
 <img width=400 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon">
+</a>
     
 </div>
 
