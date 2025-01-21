@@ -128,7 +128,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 - <h5>🤖 Backend </h5>
   <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,go,python,js,ts,prisma&perline=10" />
+        <img src="https://skillicons.dev/icons?i=nodejs,bun,elysia,express,go,python,js,ts,prisma&perline=10" />
       </a>
   </p>
 
