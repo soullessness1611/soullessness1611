@@ -143,7 +143,15 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 
 <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,k8s,ansible,nginx,markdown,neovim,vim,lua,apple,redhat,arch,pnpm,npm,yarn,jenkins,bash,obsidian,postman,linux,window perline=10" />
+      <img src="https://skillicons.dev/icons?i=git,github,bash,docker,k8s,ansible,nginx,markdown,neovim,vim,lua,pnpm,npm,yarn,jenkins,obsidian,postman,fastapi perline=10" />
+    </a>
+</p>
+
+### 💻 Operating Systems
+
+<p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=Linux,apple,windows,redhat,arch,kali,ubuntu,debian,nix perline=10" />
     </a>
 </p>
 
