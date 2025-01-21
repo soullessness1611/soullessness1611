@@ -178,8 +178,10 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 
 <div align="center">
 
+<!-- ![soullessness1611 github-stats](https://stats.dooboo.io/api/github-stats?login=soullessness1611) -->
 <img width=400 height=200 align="center" src="https://stats.dooboo.io/api/github-stats?login=soullessness1611">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon)](https://git.io/streak-stats) -->
+<img width=400 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon">
     
 </div>
 
@@ -196,7 +198,9 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soullessness1611&card_width=100%&theme=radical" />
 </a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=soullessness1611&theme=tokyonight)![soullessness1611 github-trophies](https://stats.dooboo.io/api/github-trophies?login=soullessness1611)
+![trophy](https://github-profile-trophy.vercel.app/?username=soullessness1611&theme=tokyonight)
+<!-- ![soullessness1611 github-trophies](https://stats.dooboo.io/api/github-trophies?login=soullessness1611) -->
+<img width=200 height=100 src="https://stats.dooboo.io/api/github-trophies?login=soullessness1611">
 
 [![soullessness1611's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soullessness1611&title_color=a855f7&text_color=f97316&icon_color=10b981&bg_color=181824&)](https://github.com/soullessness1611/github-readme-activity-graph)
 
