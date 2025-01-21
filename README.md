@@ -171,7 +171,10 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <a href="https://github.com/soullessness1611/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SouLLesSNesS&layout=compact&theme=dark" >
 </a>
-[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+<a href="https://github.com/cicirello/user-statistician">
+    <img src="images/userstats.svg">
+<!-- [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician) -->
+</a>
 
 </div>
 
