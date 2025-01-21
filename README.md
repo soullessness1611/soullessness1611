@@ -5,7 +5,7 @@
 <div align="center">
 <img align="center"
     class="rounded-3"
-    src="https://github.com/soullessness1611/soullessness1611/blob/main/ZenMonk%20-%20Copy.png"
+    src="https://github.com/soullessness1611/soullessness1611/blob/main/ZenMonk.png"
     style="width: 150px; border: 1px solid gray; align-item:center;"
 />
 </div>
