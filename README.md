@@ -175,7 +175,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <a href="#">
 <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soullessness1611&show_icons=true&title_color=a855f7&text_color=f97316&icon_color=10b981&bg_color=181824&" >
 </a>
-<a href="#" width=400>
+<a href="#">
 <img height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soullessness1611&layout=compact&langs_count=20&theme=tokyonight&size_weight=0.5&count_weight=0.5" >
 </a>
 
@@ -224,6 +224,12 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <!-- <img src="https://wakatime.com/share/@SouLLesSNesS/653ecad0-edc8-419a-ba90-2a97714b7932.svg"></embed></figure> -->
 <!-- <img src="https://wakatime.com/share/@SouLLesSNesS/4d2b5308-69c5-4a6e-9d8f-814493e0abe3.svg"></embed></figure> -->
 <!-- <img src="https://wakatime.com/share/@SouLLesSNesS/fce2a402-f73c-4400-a12a-0b94dddfe28e.svg"></embed></figure> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
