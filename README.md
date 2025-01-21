@@ -176,7 +176,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
-<div width=400 height=200 align="center>
+<div>
 
 ![soullessness1611 github-stats](https://stats.dooboo.io/api/github-stats?login=soullessness1611)
     
