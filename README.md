@@ -175,7 +175,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <a href="#">
 <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soullessness1611&show_icons=true&title_color=a855f7&text_color=f97316&icon_color=10b981&bg_color=181824&" >
 </a>
-<a href="#">
+<a href="#" width=400>
 <img height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soullessness1611&layout=compact&langs_count=20&theme=tokyonight&size_weight=0.5&count_weight=0.5" >
 </a>
 
