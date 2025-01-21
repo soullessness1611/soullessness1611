@@ -180,7 +180,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 </a>
 
 <a href="https://github.com/Ilvondir">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soullessness1611&card_width=100%&theme=radical" />
+    <img width=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soullessness1611&card_width=100%&theme=radical" />
 </a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=soullessness1611&theme=tokyonight)
