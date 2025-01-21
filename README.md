@@ -177,7 +177,8 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
 <div align="center">
-[![soullessness1611 github-stats](https://stats.dooboo.io/api/github-stats?login=soullessness1611)](https://stats.hyo.dev/en)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon)](https://git.io/streak-stats)
+[![soullessness1611 github-stats](https://stats.dooboo.io/api/github-stats?login=soullessness1611)](https://stats.hyo.dev/en)
 
 <a href="#">
 <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soullessness1611&show_icons=true&title_color=a855f7&text_color=f97316&icon_color=10b981&bg_color=181824&" >
