@@ -151,7 +151,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 
 <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=Linux,apple,windows,redhat,arch,kali,ubuntu,debian,nix perline=10" />
+      <img src="https://skillicons.dev/icons?i=linux,apple,windows,redhat,arch,kali,ubuntu,debian,nix perline=10" />
     </a>
 </p>
 
