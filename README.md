@@ -172,7 +172,7 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
     <img width=400 height=600 src="https://github-readme-stats.vercel.app/api/wakatime?username=SouLLesSNesS&layout=compact&theme=dark" >
 </a>
 <a href="https://github.com/cicirello/user-statistician">
-    <img width=400 height=700 src="images/userstats.svg">
+    <img width=400 height=600 src="images/userstats.svg">
 <!-- [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician) -->
 </a>
 
