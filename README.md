@@ -169,10 +169,10 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 ![Most Used Languages](https://raw.githubusercontent.com/soullessness1611/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <a href="https://github.com/soullessness1611/github-readme-stats">
-<img width=400 height=600 src="https://github-readme-stats.vercel.app/api/wakatime?username=SouLLesSNesS&layout=compact&theme=dark" >
+    <img width=400 height=600 src="https://github-readme-stats.vercel.app/api/wakatime?username=SouLLesSNesS&layout=compact&theme=dark" >
 </a>
 <a href="https://github.com/cicirello/user-statistician">
-    <img width=400 height=600 src="images/userstats.svg">
+    <img width=400 height=700 src="images/userstats.svg">
 <!-- [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician) -->
 </a>
 
@@ -206,11 +206,11 @@ Mac                      2 hrs 32 mins       ██░░░░░░░░░�
 
 <!-- ![soullessness1611 github-stats](https://stats.dooboo.io/api/github-stats?login=soullessness1611) -->
 <a href="https://stats.hyo.dev/en">
-<img width=400 height=200 align="center" src="https://stats.dooboo.io/api/github-stats?login=soullessness1611">
+    <img width=400 height=200 align="center" src="https://stats.dooboo.io/api/github-stats?login=soullessness1611">
 </a>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon)](https://git.io/streak-stats) -->
 <a href="https://git.io/streak-stats">
-<img width=400 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon">
+    <img width=400 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon">
 </a>
 
 </div>
