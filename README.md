@@ -31,8 +31,9 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
     
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:soullessness1611@gmail.com)](mailto:soullessness1611@gmail.com)&nbsp;
 [![Facebook: soullessness1611](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Patisamphitha)
-<!-- [![Instagrami: soullessness1611](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/insightsoulless) -->
 ![Twitter: soullessness1611](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+<!-- [![Instagrami: soullessness1611](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/insightsoulless) -->
+
 <br>
   
 </div>
