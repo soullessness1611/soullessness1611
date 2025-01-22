@@ -169,10 +169,10 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 ![Most Used Languages](https://raw.githubusercontent.com/soullessness1611/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <a href="https://github.com/soullessness1611/github-readme-stats">
-<img width=600 height=600 src="https://github-readme-stats.vercel.app/api/wakatime?username=SouLLesSNesS&layout=compact&theme=dark" >
+<img width=500 height=600 src="https://github-readme-stats.vercel.app/api/wakatime?username=SouLLesSNesS&layout=compact&theme=dark" >
 </a>
 <a href="https://github.com/cicirello/user-statistician">
-    <img width=600 height=600 src="images/userstats.svg">
+    <img width=500 height=600 src="images/userstats.svg">
 <!-- [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician) -->
 </a>
 
