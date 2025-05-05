@@ -182,14 +182,13 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-Python                   7 mins              ███████████████████████░░   93.47 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
