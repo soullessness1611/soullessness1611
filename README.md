@@ -26,8 +26,6 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 - 🧠  I'm learning NextJS, Redux, Supabase, firebase and Chakra-UI
 - ⚡  In my free time I read tech articles and practice new framework and new language.
 
-<h3 align="left"> 📫 Connect with me:</h3>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/soullessness1611/soullessness1611/raw/refs/heads/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/soullessness1611/soullessness1611/raw/refs/heads/output/github-snake.svg">
