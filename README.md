@@ -218,11 +218,6 @@ WSL                      10 hrs 30 mins      █████████░░�
                 </a>
             </td>
         </tr>
-    </table>
-</div>
-
-<div align="center">
-    <table width="100%">
         <tr>
             <td width="50%">
                 <a href="#">
