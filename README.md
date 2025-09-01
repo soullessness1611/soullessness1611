@@ -16,11 +16,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=500&color=A222F8&center=true&vCenter=true&random=false&width=1366&lines=I'm+SouLLesSNesSZeN;I'm+a+Freelance+Financials+Data+Analyst+and+Full+Stack++Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=500&color=A222F8&center=true&vCenter=true&random=false&width=1366&lines=I'm+SouLLesSNesSZeN;I'm+a+Financials+Data+Analyst+and+Full+Stack++Developer)](https://git.io/typing-svg)
 
 </div>
 
-I'm working as a freelance Full-Stack Developer and Financial Data analyst.
+I'm working as a Full-Stack Developer and Financial Data analyst.
 
 - 🌍  I'm based in Thailand
 - 🧠  I'm learning NextJS, Redux, Supabase, firebase and Chakra-UI
@@ -43,11 +43,6 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
     height=64px
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
 >
-<!-- <img
-    alt="r"
-    height=64px
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"
-> -->
 <img
     alt="pandas"
     height=64px
@@ -153,72 +148,101 @@ I'm working as a freelance Full-Stack Developer and Financial Data analyst.
 <br>
 <h2 align="center">📊 Github + WakaTime Stats</h2>
 <div align = "center">
-
-![Stats Overview](https://raw.githubusercontent.com/soullessness1611/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/soullessness1611/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-<a href="https://github.com/soullessness1611/github-readme-stats">
-    <img width=400 height=600 src="https://github-readme-stats.vercel.app/api/wakatime?username=SouLLesSNesS&layout=compact&theme=dark" >
-</a>
-<a href="https://github.com/cicirello/user-statistician">
-    <img width=400 height=600 src="images/userstats.svg">
-<!-- [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician) -->
-</a>
-
+    <table width="100%">
+        <tr>
+            <td width="50%">
+                <a href="">
+                    <img src = "https://raw.githubusercontent.com/soullessness1611/github-stats/master/generated/overview.svg#gh-dark-mode-only" >
+                </a>
+            </td>
+            <td width="50%">
+                <a href="">
+                    <img src = "https://raw.githubusercontent.com/soullessness1611/github-stats/master/generated/languages.svg#gh-dark-mode-only" >
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <a href="https://github.com/soullessness1611/github-readme-stats">
+                    <img width=400 height=600 src="https://github-readme-stats.vercel.app/api/wakatime?username=SouLLesSNesS&layout=compact&theme=dark" >
+                </a>
+            </td>
+            <td width="50%">
+                <a href="https://github.com/cicirello/user-statistician">
+                    <img width=400 height=600 src="images/userstats.svg">
+                    <!-- [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician) -->
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Lua                      11 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   39.15 % 
-Python                   6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-TypeScript               4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-YAML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Prisma                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+💬 Programming Languages:
+Lua                      11 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   39.15 %
+Python                   6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 %
+TypeScript               4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+YAML                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Prisma                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 
-🔥 Editors: 
-Neovim                   28 hrs 31 mins      █████████████████████████   99.24 % 
-Unknown Editor           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+🔥 Editors:
+Neovim                   28 hrs 31 mins      █████████████████████████   99.24 %
+Unknown Editor           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 
-💻 Operating System: 
-Mac                      18 hrs 14 mins      ████████████████░░░░░░░░░   63.43 % 
-WSL                      10 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   36.57 % 
+💻 Operating System:
+Mac                      18 hrs 14 mins      ████████████████░░░░░░░░░   63.43 %
+WSL                      10 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   36.57 %
 ```
-
 
 <!--END_SECTION:waka-->
 
 <h2 align="center">👨‍💻 More About Me on GitHub</h2>
 
 <div align="center">
-
 <!-- ![soullessness1611 github-stats](https://stats.dooboo.io/api/github-stats?login=soullessness1611) -->
-<a href="https://stats.hyo.dev/en">
-    <img width=400 height=200 align="center" src="https://stats.dooboo.io/api/github-stats?login=soullessness1611">
-</a>
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon)](https://git.io/streak-stats) -->
-<a href="https://git.io/streak-stats">
-    <img width=400 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon">
-</a>
-
+    <table width="100%">
+        <tr>
+            <td width="50%">
+                <a href="https://stats.hyo.dev/en">
+                    <img width=400 height=200 align="center" src="https://stats.dooboo.io/api/github-stats?login=soullessness1611">
+                </a>
+            </td>
+            <td width="50%">
+            <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon)](https://git.io/streak-stats) -->
+                <a href="https://git.io/streak-stats">
+                    <img width=400 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=soullessness1611&theme=burnt-neon">
+                </a>
+            </td>
+        </tr>
+    </table>
 </div>
 
 <div align="center">
-
-<a href="#">
-<img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soullessness1611&show_icons=true&title_color=a855f7&text_color=f97316&icon_color=10b981&bg_color=181824&" >
-</a>
-<a href="#">
-<img height=168 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soullessness1611&layout=compact&langs_count=20&theme=tokyonight&size_weight=0.5&count_weight=0.5" >
-</a>
+    <table width="100%">
+        <tr>
+            <td width="50%">
+                <a href="#">
+                    <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=soullessness1611&show_icons=true&title_color=a855f7&text_color=f97316&icon_color=10b981&bg_color=181824&" >
+                </a>
+            </td>
+            <td width="50%">
+                <a href="#">
+                    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soullessness1611&layout=compact&langs_count=20&theme=tokyonight&size_weight=0.5&count_weight=0.5" >
+                </a>
+            </td>
+        </tr>
+    </table>
 
 <a href="https://github.com/Ilvondir">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soullessness1611&card_width=100%&theme=radical" />
 </a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=soullessness1611&theme=tokyonight)
+
 <!-- ![soullessness1611 github-trophies](https://stats.dooboo.io/api/github-trophies?login=soullessness1611) -->
 <!-- <img width=400 height=200 align="left" src="https://stats.dooboo.io/api/github-trophies?login=soullessness1611"> -->
 
