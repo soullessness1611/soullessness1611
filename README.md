@@ -37,14 +37,13 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-PHP                      11 mins             █████████████████████████   98.87 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
