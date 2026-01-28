@@ -37,13 +37,13 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 11 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   3 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
