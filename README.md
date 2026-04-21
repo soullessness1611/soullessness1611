@@ -37,13 +37,17 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     1 hr 40 mins        ████████████░░░░░░░░░░░░░   46.99 % 
+YAML                     1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   34.18 % 
+TypeScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   3 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 
