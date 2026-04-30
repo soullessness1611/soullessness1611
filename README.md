@@ -37,19 +37,15 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-Lua                      1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   40.47 % 
-JSON                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Python                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-TypeScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Lua                      1 hr 16 mins        ████████████████████████░   95.81 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-Neovim                   1 hr 49 mins        ██████████████░░░░░░░░░░░   57.67 % 
-Unknown Editor           1 hr 20 mins        ███████████░░░░░░░░░░░░░░   42.33 % 
+Neovim                   1 hr 16 mins        ████████████████████████░   95.81 % 
+Unknown Editor           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 💻 Operating System: 
-WSL                      1 hr 49 mins        ██████████████░░░░░░░░░░░   57.76 % 
-Linux                    1 hr 20 mins        ███████████░░░░░░░░░░░░░░   42.24 % 
+Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 
