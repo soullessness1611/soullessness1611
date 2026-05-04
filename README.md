@@ -37,17 +37,17 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-Lua                      4 hrs 35 mins       ████████████████████░░░░░   79.08 % 
-JavaScript               52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Modula-2                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Lua                      7 hrs 52 mins       ████████████████████░░░░░   81.59 % 
+JavaScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Modula-2                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 48 mins       █████████████████████████   100.00 % 
+Neovim                   9 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      5 hrs 48 mins       █████████████████████████   100.00 % 
+WSL                      9 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
