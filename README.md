@@ -37,18 +37,18 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-Lua                      9 hrs 3 mins        █████████████████░░░░░░░░   69.45 % 
-JavaScript               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-gitignore                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Lua                      9 hrs 3 mins        █████████████████░░░░░░░░   68.73 % 
+JavaScript               1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+gitignore                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 48 mins      █████████████████████████   98.22 % 
-Unknown Editor           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Neovim                   12 hrs 56 mins      █████████████████████████   98.24 % 
+Unknown Editor           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-WSL                      13 hrs 2 mins       █████████████████████████   100.00 % 
+WSL                      13 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 
