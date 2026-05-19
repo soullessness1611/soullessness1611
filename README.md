@@ -33,6 +33,24 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 </picture>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               9 hrs 29 mins       █████████████████░░░░░░░░   68.64 % 
+JSON                     2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Markdown                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+TSConfig                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Lua                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+
+🔥 Editors: 
+Unknown Editor           13 hrs 20 mins      ████████████████████████░   96.41 % 
+Neovim                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+
+💻 Operating System: 
+WSL                      13 hrs 49 mins      █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
