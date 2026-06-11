@@ -37,18 +37,18 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 54 mins       ████████████░░░░░░░░░░░░░   49.90 % 
-TypeScript               3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-Markdown                 1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-gitignore                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Python                   7 hrs 31 mins       █████████████████░░░░░░░░   67.13 % 
+Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+TypeScript               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+gitignore                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 17 mins      ████████████████████████░   95.36 % 
-Neovim                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Claude Code              10 hrs 39 mins      ████████████████████████░   95.07 % 
+Neovim                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 💻 Operating System: 
-WSL                      11 hrs 50 mins      █████████████████████████   100.00 % 
+WSL                      11 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
