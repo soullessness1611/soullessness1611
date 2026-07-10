@@ -37,18 +37,13 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 2 mins        ██████████████░░░░░░░░░░░   54.53 % 
-Markdown                 1 hr 39 mins        ███████████░░░░░░░░░░░░░░   44.40 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              3 hrs 35 mins       ████████████████████████░   96.03 % 
-Neovim                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      3 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
