@@ -39,38 +39,37 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        ███████████████░░░░░░░░░░   58.70 % 
-Markdown                 42 mins             ████████░░░░░░░░░░░░░░░░░   32.16 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Markdown                 42 mins             ████████████████░░░░░░░░░   62.24 % 
+JavaScript               24 mins             █████████░░░░░░░░░░░░░░░░   35.44 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 11 mins       █████████████████████████   100.00 % 
+Claude Code              1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 11 mins       █████████████████████████   100.00 % 
+WSL                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 11 mins (100.0%)
+⏱ AI Coding Time: 1 hr 7 mins (100.0%)
 
-✍️ 367 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 188 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,663,505 Input Tokens, 176,870 Output Tokens
+🔤 901,778 Input Tokens, 72,480 Output Tokens
 
-💵 $16.53 Estimated AI Cost This Week
+💵 $12.12 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 21 AI Prompts
+🧠 2 AI Sessions, 14 AI Prompts
 
-Opus                     367 lines           █████████████████████████   100.00 % 
+Opus                     188 lines           █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 78,831 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 15,169 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
