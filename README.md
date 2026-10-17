@@ -33,44 +33,46 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 </picture>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-223%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-224%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 7 mins        ███████████████████████░░   90.52 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+JavaScript               3 hrs 22 mins       ████████████████████░░░░░   81.42 % 
+Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 27 mins       █████████████████████████   100.00 % 
+Claude Code              4 hrs               ████████████████████████░   96.79 % 
+Neovim                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 💻 Operating System: 
-WSL                      3 hrs 27 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 27 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 3 mins (97.99%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 13 lines written by AI, 3 lines written by hand (81.25% AI-written)
 
-🔤 2,676,053 Input Tokens, 366,287 Output Tokens
+🔤 2,682,620 Input Tokens, 394,972 Output Tokens
 
-💵 $25.94 Estimated AI Cost This Week
+💵 $29.22 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 31 AI Prompts
+🧠 23 AI Sessions, 36 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     13 lines            █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 152,102 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 81.25% of written lines came from AI
+📚 Verbose Prompter — average 121,165 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 27.78% of changed lines were hand-edited
 ```
 
 
