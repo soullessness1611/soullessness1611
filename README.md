@@ -39,43 +39,43 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   40.04 % 
-TypeScript               2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-Text                     2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Markdown                 3 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.93 % 
+Text                     2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+TypeScript               1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 52 mins       ████████████████████████░   95.38 % 
-Neovim                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Claude Code              7 hrs 12 mins       ████████████████████████░   94.97 % 
+Neovim                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 💻 Operating System: 
-WSL                      8 hrs 15 mins       █████████████████████████   100.00 % 
+WSL                      7 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 58 mins (96.65%)
+⏱ AI Coding Time: 7 hrs 18 mins (96.35%)
 
 ✍️ 343 lines written by AI, 23 lines written by hand (93.72% AI-written)
 
-🔤 11,821,686 Input Tokens, 320,717 Output Tokens
+🔤 10,855,726 Input Tokens, 250,193 Output Tokens
 
-💵 $76.12 Estimated AI Cost This Week
+💵 $73.94 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 63 AI Prompts
+🧠 29 AI Sessions, 56 AI Prompts
 
-Opus                     343 lines           █████████████████████████   98.28 % 
-Sonnet                   6 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Opus                     343 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 93.72% of written lines came from AI
-📚 Verbose Prompter — average 83,755 characters per prompt
+📚 Verbose Prompter — average 68,264 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 6.18% of changed lines were hand-edited
+🚀 High AI Trust — 6.28% of changed lines were hand-edited
 ```
 
 
