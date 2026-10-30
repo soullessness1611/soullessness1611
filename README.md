@@ -39,38 +39,19 @@ I'm working as a Full-Stack Developer and Financial Data analyst.
 
 ```text
 💬 Programming Languages: 
-JSON                     16 mins             █████████████░░░░░░░░░░░░   53.99 % 
-Other                    8 mins              ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Python                   5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   22 mins             ███████████████████░░░░░░   75.10 % 
-Claude Code              7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Neovim                   5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      30 mins             █████████████████████████   100.00 % 
+WSL                      5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (45.5%)
-
-✍️ 0 lines written by AI, 23 lines written by hand (0.0% AI-written)
-
-🔤 2,050 Input Tokens, 494 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 5 AI Prompts
-
-Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 9 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
