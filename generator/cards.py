@@ -355,6 +355,13 @@ def wakatime_card(wk: dict | None) -> str:
             f'<text class="sm" x="28" y="118">Add a WAKATIME_API_KEY repository secret to stream coding-time telemetry here.</text>'
         )
         return frame(w, h, "WAKATIME // 7 DAYS", body, tag="TIME.09", accent=MAGENTA)
+    if "error" in wk:
+        h = 150
+        body = (
+            f'<text class="lbl flicker" x="28" y="94" style="fill:{MAGENTA};font-size:14px">⚠ LINK ERROR</text>'
+            f'<text class="sm" x="28" y="118">WakaTime API refused the request — {esc(fit(wk["error"], 760, 11))}</text>'
+        )
+        return frame(w, h, "WAKATIME // 7 DAYS", body, tag="TIME.09", accent=MAGENTA)
 
     langs = wk["languages"][:6]
     h = max(220, 96 + len(langs) * 26 + 20)
