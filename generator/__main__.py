@@ -2,7 +2,8 @@
 
 Env:
   GH_TOKEN / GITHUB_TOKEN  GitHub token (required unless --demo)
-  WAKATIME_API_KEY         optional; WakaTime card shows "offline" without it
+  WAKATIME_TOKEN           optional OAuth token (scope read_stats); WakaTime card shows "offline" without it
+  WAKATIME_API_KEY         legacy fallback — WakaTime now rejects API keys for stats (HTTP 403)
 """
 
 from __future__ import annotations
@@ -115,7 +116,7 @@ def main(argv: list[str] | None = None) -> int:
         except GitHubError as e:
             print(f"error: {e}", file=sys.stderr)
             return 1
-        wk = fetch_wakatime(os.environ.get("WAKATIME_API_KEY"))
+        wk = fetch_wakatime(os.environ.get("WAKATIME_API_KEY"), os.environ.get("WAKATIME_TOKEN"))
 
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)

@@ -56,7 +56,7 @@ GitHub Actions รันทุก 6 ชั่วโมงแล้ว commit ก
 | Commit Activity | `activity.svg` | ช่วงเวลาที่ commit (ตาม `timezone`), วันในสัปดาห์, 12 เดือนล่าสุด |
 | Technology Skills | `skills.svg` | รายการจาก `skills` ใน `config.json` |
 | Latest Projects | `projects.svg` | repo ที่ push ล่าสุด (ไม่รวม archived) |
-| WakaTime | `wakatime.svg` | เวลาเขียนโค้ด 7 วันล่าสุด (ถ้าไม่ตั้ง key จะขึ้น LINK OFFLINE) |
+| WakaTime | `wakatime.svg` | เวลาเขียนโค้ด 7 วันล่าสุด (ไม่ตั้ง token จะขึ้น LINK OFFLINE · API ตอบ error จะขึ้น LINK ERROR พร้อมเหตุผล) |
 
 ## ตั้งค่าให้ใช้งาน
 
@@ -76,7 +76,13 @@ GitHub Actions รันทุก 6 ชั่วโมงแล้ว commit ก
 
 3. ตั้ง secret ใน **Settings → Secrets and variables → Actions** (ไม่บังคับ):
    - `GH_PAT` — classic token scope `read:user` (+ `repo` ถ้าอยากนับ private) ไม่ตั้งก็ได้ จะใช้ `GITHUB_TOKEN` ของ workflow ซึ่งเห็นแค่ข้อมูล public
-   - `WAKATIME_API_KEY` — จาก <https://wakatime.com/settings/api-key>
+   - `WAKATIME_TOKEN` — OAuth token ของ WakaTime (scope `read_stats`)
+     ใช้ API key ไม่ได้แล้ว เพราะ WakaTime ให้ API key ใช้ได้เฉพาะ plugin และจะตอบ HTTP 403 ถ้าเอามาอ่านสถิติ วิธีขอ token มีดังนี้
+     1. สร้าง app ที่ <https://wakatime.com/apps> แล้วตั้ง Authorized Redirect URI เป็น `https://localhost`
+     2. รัน `python3 scripts/wakatime_token.py | gh secret set WAKATIME_TOKEN -R soullessness1611/soullessness1611`
+        ใส่ App ID / App Secret แล้วเปิดลิงก์ที่สคริปต์แสดง กด Authorize
+        หน้าที่เบราว์เซอร์พาไปจะโหลดไม่ขึ้น ไม่เป็นไร คัดลอก URL ของหน้านั้นมาวาง
+        token จะถูกตั้งเป็น secret โดยไม่แสดงบนจอ และใช้ได้ 100 ปี
 4. ไปที่แท็บ **Actions → Update CyberPunk stats → Run workflow** เพื่อสร้างการ์ดครั้งแรก
 
 ## รันบนเครื่อง (Python 3.10+)
@@ -86,7 +92,7 @@ GitHub Actions รันทุก 6 ชั่วโมงแล้ว commit ก
 python -m generator --demo
 
 # ใช้ข้อมูลจริง
-GH_TOKEN=$(gh auth token) WAKATIME_API_KEY=xxx python -m generator
+GH_TOKEN=$(gh auth token) WAKATIME_TOKEN=waka_tok_xxx python -m generator
 
 # รันเทสต์
 python -m unittest discover -s tests -t .
@@ -105,7 +111,8 @@ generator/
   cards.py       วาดการ์ด SVG ทั้ง 10 ใบ
   theme.py       สี, ฟอนต์, กรอบ และ animation ธีม CyberPunk
   demo.py        ข้อมูลตัวอย่างสำหรับ --demo
-tests/           unittest ของ stats และการ์ด
+scripts/wakatime_token.py  ขอ WakaTime OAuth token สำหรับ secret WAKATIME_TOKEN
+tests/           unittest ของ stats, การ์ด และ WakaTime
 assets/          SVG ที่สร้างแล้ว (workflow เขียนทับ)
 .github/workflows/update-stats.yml
 ```

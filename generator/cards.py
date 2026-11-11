@@ -352,7 +352,7 @@ def wakatime_card(wk: dict | None) -> str:
         h = 150
         body = (
             f'<text class="lbl flicker" x="28" y="94" style="fill:{MAGENTA};font-size:14px">⚠ LINK OFFLINE</text>'
-            f'<text class="sm" x="28" y="118">Add a WAKATIME_API_KEY repository secret to stream coding-time telemetry here.</text>'
+            f'<text class="sm" x="28" y="118">Add a WAKATIME_TOKEN repository secret (OAuth, scope read_stats) to stream coding-time telemetry here.</text>'
         )
         return frame(w, h, "WAKATIME // 7 DAYS", body, tag="TIME.09", accent=MAGENTA)
     if "error" in wk:

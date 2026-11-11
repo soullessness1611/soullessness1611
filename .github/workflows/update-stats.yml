@@ -36,6 +36,7 @@ jobs:
           # GH_PAT (classic token, scopes: read:user, repo) adds private contributions;
           # without it the built-in token still covers public data.
           GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: python -m generator --out assets
 

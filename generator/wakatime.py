@@ -1,6 +1,10 @@
 """WakaTime stats (last 7 days).
 
-Returns None when no API key is configured, {"error": "..."} when the API
+WakaTime only lets plugins use API keys; reading stats needs an OAuth access
+token (scope read_stats) sent as a Bearer token. The API-key path is kept for
+backwards compatibility but WakaTime now answers it with HTTP 403.
+
+Returns None when no credential is configured, {"error": "..."} when the API
 call fails, otherwise the stats dict the card renders.
 """
 
@@ -14,14 +18,18 @@ import urllib.request
 STATS_URL = "https://wakatime.com/api/v1/users/current/stats/last_7_days"
 
 
-def fetch_wakatime(api_key: str | None) -> dict | None:
+def fetch_wakatime(api_key: str | None, oauth_token: str | None = None) -> dict | None:
     api_key = (api_key or "").strip()
-    if not api_key:
+    oauth_token = (oauth_token or "").strip()
+    if oauth_token:
+        auth = f"Bearer {oauth_token}"
+    elif api_key:
+        auth = "Basic " + base64.b64encode(api_key.encode()).decode()
+    else:
         return None
-    auth = base64.b64encode(api_key.encode()).decode()
     req = urllib.request.Request(
         STATS_URL,
-        headers={"Authorization": f"Basic {auth}", "User-Agent": "cyberpunk-github-stats"},
+        headers={"Authorization": auth, "User-Agent": "cyberpunk-github-stats"},
     )
     try:
         with urllib.request.urlopen(req, timeout=60) as resp:
