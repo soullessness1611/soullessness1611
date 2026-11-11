@@ -57,7 +57,7 @@
 <g class="rise" style="animation-delay:0.48s"><rect x="28" y="197" width="4" height="10" fill="#f9f002"/><text class="lbl" x="40" y="206">FOLLOWERS</text><text class="val" x="300" y="206" text-anchor="end" style="fill:#f9f002">19</text></g>
 <polygon points="445.2,111.0 445.2,169.0 395.0,198.0 344.8,169.0 344.8,111.0 395.0,82.0" fill="#0d0d18" stroke="#00f0ff" stroke-width="2" filter="url(#glow)"/>
 <polygon points="445.2,111.0 445.2,169.0 395.0,198.0 344.8,169.0 344.8,111.0 395.0,82.0" fill="none" stroke="#ff2a6d" stroke-width="1" transform="rotate(30 395 140) scale(1)" opacity="0.5"/>
-<text x="395" y="144" text-anchor="middle" style="font-size:24px;font-weight:800;fill:#00f0ff">1.9k</text>
+<text x="395" y="144" text-anchor="middle" style="font-size:24px;font-weight:800;fill:#00f0ff">2k</text>
 <text x="395" y="162" text-anchor="middle" class="sm">CONTRIBS</text>
 <text x="395" y="218" text-anchor="middle" class="sm" style="fill:#ff2a6d">ALL-TIME</text>
 </svg>

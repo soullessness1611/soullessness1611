@@ -49,7 +49,7 @@
 <text class="sm" x="471" y="34" text-anchor="end" style="fill:#ff2a6d">// LOOP.02</text>
 <rect x="28" y="50" width="439" height="1" fill="#ff2a6d" opacity="0.35"/>
 
-<text x="82" y="128" text-anchor="middle" style="font-size:26px;font-weight:800;fill:#f9f002">1.9k</text><text x="82" y="152" text-anchor="middle" class="lbl">TOTAL</text><text x="82" y="200" text-anchor="middle" class="sm">SINCE 01 JAN 2023</text>
+<text x="82" y="128" text-anchor="middle" style="font-size:26px;font-weight:800;fill:#f9f002">2k</text><text x="82" y="152" text-anchor="middle" class="lbl">TOTAL</text><text x="82" y="200" text-anchor="middle" class="sm">SINCE 01 JAN 2023</text>
 <circle cx="247.5" cy="128" r="46" fill="#0d0d18" stroke="#16162b" stroke-width="7"/>
 <circle cx="247.5" cy="128" r="46" fill="none" stroke="#ff2a6d" stroke-width="7" stroke-linecap="square"
   stroke-dasharray="43.4 289.0" transform="rotate(-90 247.5 128)" filter="url(#glow)"/>
