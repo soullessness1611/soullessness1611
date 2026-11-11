@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="WAKATIME · 7 DAYS">
+<title>WAKATIME · 7 DAYS</title>
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feMerge><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  text { font-family: 'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua','Noto Serif',Georgia,serif; fill: #e9e2d2; }
+  .t { font-size: 17px; font-weight: 600; letter-spacing: 5px; }
+  .lbl { font-size: 12px; fill: #8a8273; letter-spacing: 1px; }
+  .val { font-size: 13px; font-weight: 700; }
+  .sm { font-size: 11px; fill: #8a8273; }
+  .flicker {  }
+  .rise { animation: rise 1.1s ease-out both; }
+  @keyframes rise { from { opacity: 0; } to { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .flicker, .sweep, .rise { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="999" height="149" rx="14" fill="#151412" stroke="#e9e2d2" stroke-opacity="0.18"/>
+<path d="M939.0,36.2 A54.0,54.0 0 1 1 898.0,30.8" fill="none" stroke="#e9e2d2" stroke-width="9" stroke-linecap="round" opacity="0.05"/><path d="M939.0,36.2 A51.0,51.0 0 1 1 898.0,30.8" fill="none" stroke="#e9e2d2" stroke-width="2" stroke-linecap="round" opacity="0.06"/>
+<text class="t" x="32" y="40">WAKATIME · 7 DAYS</text>
+<rect x="950" y="20" width="24" height="24" rx="4" fill="#c0503b"/>
+<text x="962" y="38" text-anchor="middle" style="font-size:15px;fill:#151412;font-family:'Yu Mincho','Hiragino Mincho ProN','Noto Serif CJK JP','MS Mincho',serif">禅</text>
+<circle cx="32" cy="53" r="2" fill="#c0503b"/>
+<rect x="40" y="52.5" width="928" height="1" fill="#e9e2d2" opacity="0.14"/>
+<text class="lbl flicker" x="28" y="94" style="fill:#d0644c;font-size:14px">⚠ LINK OFFLINE</text><text class="sm" x="28" y="118">Add a WAKATIME_TOKEN repository secret (OAuth, scopes read_stats + read_summaries) to show coding time here.</text>
+</svg>

@@ -1,4 +1,4 @@
-name: Update CyberPunk stats
+name: Update profile cards
 
 on:
   schedule:

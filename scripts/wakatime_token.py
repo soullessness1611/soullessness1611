@@ -1,4 +1,4 @@
-"""Get a long-lived WakaTime OAuth token (scope read_stats) for the WAKATIME_TOKEN secret.
+"""Get a long-lived WakaTime OAuth token (scopes read_stats, read_summaries) for the WAKATIME_TOKEN secret.
 
 WakaTime no longer accepts API keys for reading stats. Run this once:
 
@@ -34,7 +34,7 @@ def ask(prompt: str) -> str:
 
 def authorize_url(client_id: str, redirect_uri: str) -> str:
     query = urllib.parse.urlencode(
-        {"client_id": client_id, "response_type": "code", "redirect_uri": redirect_uri, "scope": "read_stats"}
+        {"client_id": client_id, "response_type": "code", "redirect_uri": redirect_uri, "scope": "read_stats,read_summaries"}
     )
     return f"{AUTHORIZE_URL}?{query}"
 

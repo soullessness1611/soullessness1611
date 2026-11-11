@@ -72,12 +72,30 @@ def demo_raw(login: str, today: date) -> dict:
     return {"user": user, "repos": repos, "years": years, "commit_times": commit_times}
 
 
-def demo_wakatime() -> dict:
-    return {
-        "range": "Last 7 days", "total": "31 hrs 12 mins", "daily_average": "4 hrs 27 mins",
-        "best_day": "7 hrs 3 mins",
-        "languages": [{"name": n, "percent": p, "text": t} for n, p, t in [
-            ("Python", 41.2, "12 hrs 51 mins"), ("TypeScript", 27.5, "8 hrs 34 mins"), ("Lua", 9.8, "3 hrs 3 mins"),
-            ("Markdown", 8.1, "2 hrs 31 mins"), ("YAML", 6.3, "1 hr 58 mins"), ("Bash", 4.0, "1 hr 15 mins")]],
-        "editors": ["Neovim", "VS Code"], "operating_systems": ["Linux", "WSL"], "up_to_date": True,
-    }
+def demo_wakatime(today: date | None = None) -> dict:
+    """Sample WakaTime data in the same shape fetch_wakatime returns."""
+    from .wakatime import parse_stats
+
+    def item(name: str, pct: float, secs: int) -> dict:
+        h, m = divmod(secs // 60, 60)
+        return {"name": name, "percent": pct, "total_seconds": secs, "text": f"{h} hrs {m} mins" if h else f"{m} mins"}
+
+    wk = parse_stats({"data": {
+        "human_readable_range": "Last 7 Days", "human_readable_total_including_other_language": "31 hrs 12 mins",
+        "total_seconds_including_other_language": 112320, "human_readable_daily_average": "4 hrs 27 mins",
+        "best_day": {"date": ((today or date.today()) - timedelta(days=2)).isoformat(), "text": "7 hrs 3 mins"},
+        "languages": [item(n, p, s) for n, p, s in [("Python", 41.2, 46260), ("TypeScript", 27.5, 30840), ("Lua", 9.8, 10980),
+                                                     ("Markdown", 8.1, 9060), ("YAML", 6.3, 7080), ("Bash", 4.0, 4500)]],
+        "projects": [item(n, p, s) for n, p, s in [("neon-grid-engine", 38.0, 42680), ("ghost-protocol-cli", 24.0, 26960),
+                                                    ("dotfiles", 14.0, 15720), ("data-shard", 9.0, 10110)]],
+        "editors": [item("Neovim", 72.0, 80870), item("VS Code", 28.0, 31450)],
+        "operating_systems": [item("Linux", 100.0, 112320)], "categories": [item("Coding", 88.0, 98840)],
+        "machines": [{"name": "demo-box"}],
+        "ai_additions": 5200, "human_additions": 1300, "ai_input_tokens": 41_000_000, "ai_output_tokens": 600_000,
+        "ai_model_total_cost": 23.4, "ai_sessions": 18, "ai_prompt_events_total": 96, "ai_model_line_changes": {"Sonnet": 5200},
+    }})
+    end = today or date.today()
+    hours = [3.2, 5.1, 4.4, 0.0, 6.8, 7.1, 4.6]
+    wk["days"] = [{"date": (end - timedelta(days=6 - i)).isoformat(), "seconds": h * 3600, "text": f"{h:.1f} hrs",
+                   "ai_additions": int(h * 160), "human_additions": int(h * 40)} for i, h in enumerate(hours)]
+    return wk
