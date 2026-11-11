@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="WAKATIME // 7 DAYS">
-<title>WAKATIME // 7 DAYS</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="272" viewBox="0 0 1000 272" role="img" aria-label="WAKATIME // LAST WEEK">
+<title>WAKATIME // LAST WEEK</title>
 <defs>
   <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
     <path d="M24 0H0V24" fill="none" stroke="#16162b" stroke-width="1"/>
@@ -12,10 +12,10 @@
     <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
   <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#ff2a6d"/>
-    <stop offset="1" stop-color="#00f0ff"/>
+    <stop offset="0" stop-color="#00f0ff"/>
+    <stop offset="1" stop-color="#ff2a6d"/>
   </linearGradient>
-  <clipPath id="cut"><path d="M18,1 H999 V132 L982,149 H1 V18 Z"/></clipPath>
+  <clipPath id="cut"><path d="M18,1 H999 V254 L982,271 H1 V18 Z"/></clipPath>
 </defs>
 <style>
   text { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; fill: #e2e2f0; }
@@ -28,25 +28,25 @@
   .sweep { animation: sweep 7s linear infinite; }
   .rise { animation: rise .9s ease-out both; }
   @keyframes flicker { 0%,92%,96%,100% { opacity: 1; } 94% { opacity: .35; } }
-  @keyframes sweep { from { transform: translateY(-40px); } to { transform: translateY(190px); } }
+  @keyframes sweep { from { transform: translateY(-40px); } to { transform: translateY(312px); } }
   @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
   @media (prefers-reduced-motion: reduce) { .flicker, .sweep, .rise { animation: none; } }
 </style>
 <g clip-path="url(#cut)">
-  <rect width="1000" height="150" fill="#07070d"/>
-  <rect width="1000" height="150" fill="url(#grid)"/>
-  <rect width="1000" height="150" fill="url(#scan)"/>
-  <rect class="sweep" x="0" y="0" width="1000" height="38" fill="#ff2a6d" opacity="0.035"/>
+  <rect width="1000" height="272" fill="#07070d"/>
+  <rect width="1000" height="272" fill="url(#grid)"/>
+  <rect width="1000" height="272" fill="url(#scan)"/>
+  <rect class="sweep" x="0" y="0" width="1000" height="38" fill="#00f0ff" opacity="0.035"/>
 </g>
-<path d="M18,1 H999 V132 L982,149 H1 V18 Z" fill="none" stroke="url(#edge)" stroke-width="2"/>
-<path d="M1,48 V18 L18,1 H78" fill="none" stroke="#ff2a6d" stroke-width="4" filter="url(#glow)"/>
-<path d="M999,102 V132 L982,149 H922" fill="none" stroke="#ff2a6d" stroke-width="4" filter="url(#glow)"/>
+<path d="M18,1 H999 V254 L982,271 H1 V18 Z" fill="none" stroke="url(#edge)" stroke-width="2"/>
+<path d="M1,48 V18 L18,1 H78" fill="none" stroke="#00f0ff" stroke-width="4" filter="url(#glow)"/>
+<path d="M999,224 V254 L982,271 H922" fill="none" stroke="#ff2a6d" stroke-width="4" filter="url(#glow)"/>
 <g transform="translate(28,38)" class="flicker">
-  <text class="t" x="2" y="1" style="fill:#ff2a6d" opacity="0.7">WAKATIME // 7 DAYS</text>
-  <text class="t" x="-1.5" y="-1" style="fill:#00f0ff" opacity="0.7">WAKATIME // 7 DAYS</text>
-  <text class="t" x="0" y="0">WAKATIME // 7 DAYS</text>
+  <text class="t" x="2" y="1" style="fill:#ff2a6d" opacity="0.7">WAKATIME // LAST WEEK</text>
+  <text class="t" x="-1.5" y="-1" style="fill:#00f0ff" opacity="0.7">WAKATIME // LAST WEEK</text>
+  <text class="t" x="0" y="0">WAKATIME // LAST WEEK</text>
 </g>
-<text class="sm" x="976" y="34" text-anchor="end" style="fill:#ff2a6d">// TIME.09</text>
-<rect x="28" y="50" width="944" height="1" fill="#ff2a6d" opacity="0.35"/>
-<text class="lbl flicker" x="28" y="94" style="fill:#ff2a6d;font-size:14px">⚠ LINK ERROR</text><text class="sm" x="28" y="118">WakaTime API refused the request — HTTP 401: Unauthorized.</text>
+<text class="sm" x="976" y="34" text-anchor="end" style="fill:#00f0ff">// TIME.09</text>
+<rect x="28" y="50" width="944" height="1" fill="#00f0ff" opacity="0.35"/>
+<text class="sm" x="28" y="80">TOTAL</text><text class="val" x="28" y="98" style="fill:#00f0ff;font-size:15px">17 hrs 31 mins</text><text class="sm" x="28" y="120">DAILY AVG</text><text class="val" x="28" y="138" style="fill:#ff2a6d;font-size:15px">4 hrs</text><text class="sm" x="28" y="160">BEST DAY</text><text class="val" x="28" y="178" style="fill:#f9f002;font-size:15px">9 hrs 11 mins</text><text class="sm" x="28" y="200">EDITOR  <tspan style="fill:#05ffa1">Claude Code · Neovim</tspan></text><text class="sm" x="28" y="218">OS      <tspan style="fill:#05ffa1">WSL</tspan></text><text class="val" x="330" y="84" style="font-size:12px">Markdown</text><rect x="470" y="74" width="330" height="10" fill="#16162b"/><rect class="rise" style="animation-delay:0.00s" x="470" y="74" width="163.2" height="10" fill="#00f0ff" filter="url(#glow)"/><text class="sm" x="810" y="84">8 hrs 39 mins</text><text class="sm" x="972" y="84" text-anchor="end" style="fill:#00f0ff">49.5%</text><text class="val" x="330" y="110" style="font-size:12px">TypeScript</text><rect x="470" y="100" width="330" height="10" fill="#16162b"/><rect class="rise" style="animation-delay:0.07s" x="470" y="100" width="35.1" height="10" fill="#ff2a6d" filter="url(#glow)"/><text class="sm" x="810" y="110">1 hr 51 mins</text><text class="sm" x="972" y="110" text-anchor="end" style="fill:#ff2a6d">10.7%</text><text class="val" x="330" y="136" style="font-size:12px">Other</text><rect x="470" y="126" width="330" height="10" fill="#16162b"/><rect class="rise" style="animation-delay:0.14s" x="470" y="126" width="28.5" height="10" fill="#f9f002" filter="url(#glow)"/><text class="sm" x="810" y="136">1 hr 30 mins</text><text class="sm" x="972" y="136" text-anchor="end" style="fill:#f9f002">8.7%</text><text class="val" x="330" y="162" style="font-size:12px">HTML</text><rect x="470" y="152" width="330" height="10" fill="#16162b"/><rect class="rise" style="animation-delay:0.21s" x="470" y="152" width="26.4" height="10" fill="#b026ff" filter="url(#glow)"/><text class="sm" x="810" y="162">1 hr 24 mins</text><text class="sm" x="972" y="162" text-anchor="end" style="fill:#b026ff">8.0%</text><text class="val" x="330" y="188" style="font-size:12px">Lua</text><rect x="470" y="178" width="330" height="10" fill="#16162b"/><rect class="rise" style="animation-delay:0.28s" x="470" y="178" width="21.4" height="10" fill="#05ffa1" filter="url(#glow)"/><text class="sm" x="810" y="188">1 hr 8 mins</text><text class="sm" x="972" y="188" text-anchor="end" style="fill:#05ffa1">6.5%</text><text class="val" x="330" y="214" style="font-size:12px">CSS</text><rect x="470" y="204" width="330" height="10" fill="#16162b"/><rect class="rise" style="animation-delay:0.35s" x="470" y="204" width="19.6" height="10" fill="#ff8a00" filter="url(#glow)"/><text class="sm" x="810" y="214">1 hr 2 mins</text><text class="sm" x="972" y="214" text-anchor="end" style="fill:#ff8a00">5.9%</text>
 </svg>
