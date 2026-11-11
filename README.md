@@ -32,6 +32,19 @@
 <p align="center">
   <img src="assets/waka-overview.svg" alt="WakaTime coding time" width="100%">
 </p>
+
+<p align="center">
+  <img src="assets/waka-ai.svg" alt="AI coding" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/waka-projects.svg" alt="WakaTime projects" width="49%">
+  <img src="assets/waka-tools.svg" alt="Editors and tools" width="49%">
+</p>
+
+<p align="center">
+  <img src="assets/waka-rhythm.svg" alt="Coding rhythm" width="100%">
+</p>
 <!-- PROFILE:END -->
 
 ---

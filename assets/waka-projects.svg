@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="260" viewBox="0 0 495 260" role="img" aria-label="PROJECTS">
+<title>PROJECTS</title>
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feMerge><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+  text { font-family: 'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua','Noto Serif',Georgia,serif; fill: #e9e2d2; }
+  .t { font-size: 17px; font-weight: 600; letter-spacing: 5px; }
+  .lbl { font-size: 12px; fill: #8a8273; letter-spacing: 1px; }
+  .val { font-size: 13px; font-weight: 700; }
+  .sm { font-size: 11px; fill: #8a8273; }
+  .flicker {  }
+  .rise { animation: rise 1.1s ease-out both; }
+  @keyframes rise { from { opacity: 0; } to { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .flicker, .sweep, .rise { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="494" height="259" rx="14" fill="#151412" stroke="#e9e2d2" stroke-opacity="0.18"/>
+<path d="M417.0,61.8 A88.0,88.0 0 1 1 350.2,53.0" fill="none" stroke="#e9e2d2" stroke-width="9" stroke-linecap="round" opacity="0.05"/><path d="M417.0,61.8 A85.0,85.0 0 1 1 350.2,53.0" fill="none" stroke="#e9e2d2" stroke-width="2" stroke-linecap="round" opacity="0.06"/>
+<text class="t" x="32" y="40">PROJECTS</text>
+<rect x="445" y="20" width="24" height="24" rx="4" fill="#c0503b"/>
+<text x="457" y="38" text-anchor="middle" style="font-size:15px;fill:#151412;font-family:'Yu Mincho','Hiragino Mincho ProN','Noto Serif CJK JP','MS Mincho',serif">禅</text>
+<circle cx="32" cy="53" r="2" fill="#c0503b"/>
+<rect x="40" y="52.5" width="423" height="1" fill="#e9e2d2" opacity="0.14"/>
+<text x="32" y="91" text-anchor="start" style="font-size:12.5px;font-weight:400;fill:#e9e2d2">ZeN-Workflow</text><rect x="170" y="84" width="220" height="6" rx="3.0" fill="#2a2723"/><rect class="rise" x="170" y="84" width="220.0" height="6" rx="3.0" fill="#9fb7c9"/><text x="463" y="91" text-anchor="end" style="font-size:11px;font-weight:400;fill:#8a8273">8h 42m</text><text x="32" y="115" text-anchor="start" style="font-size:12.5px;font-weight:400;fill:#e9e2d2">ZEN-POS</text><rect x="170" y="108" width="220" height="6" rx="3.0" fill="#2a2723"/><rect class="rise" x="170" y="108" width="133.4" height="6" rx="3.0" fill="#d0644c"/><text x="463" y="115" text-anchor="end" style="font-size:11px;font-weight:400;fill:#8a8273">5h 16m</text><text x="32" y="139" text-anchor="start" style="font-size:12.5px;font-weight:400;fill:#e9e2d2">dotfiles</text><rect x="170" y="132" width="220" height="6" rx="3.0" fill="#2a2723"/><rect class="rise" x="170" y="132" width="43.1" height="6" rx="3.0" fill="#c9a24a"/><text x="463" y="139" text-anchor="end" style="font-size:11px;font-weight:400;fill:#8a8273">1h 42m</text><text x="32" y="163" text-anchor="start" style="font-size:12.5px;font-weight:400;fill:#e9e2d2">ZeN-Test</text><rect x="170" y="156" width="220" height="6" rx="3.0" fill="#2a2723"/><rect class="rise" x="170" y="156" width="22.1" height="6" rx="3.0" fill="#a08aa8"/><text x="463" y="163" text-anchor="end" style="font-size:11px;font-weight:400;fill:#8a8273">52m</text><text x="32" y="187" text-anchor="start" style="font-size:12.5px;font-weight:400;fill:#e9e2d2">Unknown Project</text><rect x="170" y="180" width="220" height="6" rx="3.0" fill="#2a2723"/><rect class="rise" x="170" y="180" width="11.5" height="6" rx="3.0" fill="#8fa86f"/><text x="463" y="187" text-anchor="end" style="font-size:11px;font-weight:400;fill:#8a8273">27m</text><text x="32" y="211" text-anchor="start" style="font-size:12.5px;font-weight:400;fill:#e9e2d2">vault</text><rect x="170" y="204" width="220" height="6" rx="3.0" fill="#2a2723"/><rect class="rise" x="170" y="204" width="7.0" height="6" rx="3.0" fill="#b08d6e"/><text x="463" y="211" text-anchor="end" style="font-size:11px;font-weight:400;fill:#8a8273">16m</text><text x="32" y="235" text-anchor="start" style="font-size:12.5px;font-weight:400;fill:#e9e2d2">spikeproj</text><rect x="170" y="228" width="220" height="6" rx="3.0" fill="#2a2723"/><rect class="rise" x="170" y="228" width="3.0" height="6" rx="3.0" fill="#7fa9ae"/><text x="463" y="235" text-anchor="end" style="font-size:11px;font-weight:400;fill:#8a8273">6m</text>
+</svg>
