@@ -1,49 +1,49 @@
 <!-- PROFILE:START -->
 <p align="center">
-  <img src="assets/header.svg" alt="GitHub profile header" width="100%">
+  <img src="assets/header.svg?v=417cff65" alt="GitHub profile header" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg" alt="GitHub stats" width="49%">
-  <img src="assets/streak.svg" alt="Contribution streak" width="49%">
+  <img src="assets/stats.svg?v=31497519" alt="GitHub stats" width="49%">
+  <img src="assets/streak.svg?v=70362fa8" alt="Contribution streak" width="49%">
 </p>
 
 <p align="center">
-  <img src="assets/languages.svg" alt="Top languages" width="49%">
-  <img src="assets/repos.svg" alt="Repositories and stars" width="49%">
+  <img src="assets/languages.svg?v=993b85df" alt="Top languages" width="49%">
+  <img src="assets/repos.svg?v=15d9506e" alt="Repositories and stars" width="49%">
 </p>
 
 <p align="center">
-  <img src="assets/contributions.svg" alt="Contribution graph" width="100%">
+  <img src="assets/contributions.svg?v=6f194e40" alt="Contribution graph" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/activity.svg" alt="Commit activity" width="100%">
+  <img src="assets/activity.svg?v=c28be29d" alt="Commit activity" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/skills.svg" alt="Technology skills" width="100%">
+  <img src="assets/skills.svg?v=13b47c50" alt="Technology skills" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg" alt="Latest projects" width="100%"></a>
+  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=5baa93f0" alt="Latest projects" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="assets/waka-overview.svg" alt="WakaTime coding time" width="100%">
+  <img src="assets/waka-overview.svg?v=834a9ca4" alt="WakaTime coding time" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-ai.svg" alt="AI coding" width="100%">
+  <img src="assets/waka-ai.svg?v=0aac7b23" alt="AI coding" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-projects.svg" alt="WakaTime projects" width="49%">
-  <img src="assets/waka-tools.svg" alt="Editors and tools" width="49%">
+  <img src="assets/waka-projects.svg?v=3b522df4" alt="WakaTime projects" width="49%">
+  <img src="assets/waka-tools.svg?v=125e9ff6" alt="Editors and tools" width="49%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-rhythm.svg" alt="Coding rhythm" width="100%">
+  <img src="assets/waka-rhythm.svg?v=a9c37710" alt="Coding rhythm" width="100%">
 </p>
 <!-- PROFILE:END -->
 

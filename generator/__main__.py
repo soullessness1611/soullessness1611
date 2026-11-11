@@ -147,7 +147,8 @@ def main(argv: list[str] | None = None) -> int:
     readme_path = Path(args.readme) if args.readme else (None if args.demo else ROOT / "README.md")
     if readme_path and not args.no_readme:
         assets = os.path.relpath(out.resolve(), readme_path.resolve().parent).replace(os.sep, "/")
-        if readme.update(readme_path, readme.section(list(images), cfg["username"], assets)):
+        versions = {name: readme.version(svg) for name, svg in images.items()}
+        if readme.update(readme_path, readme.section(list(images), cfg["username"], assets, versions)):
             print(f"[readme] {readme_path.name}: profile section set to style '{style}'")
         else:
             print(f"[readme] {readme.START} / {readme.END} markers not found in {readme_path} — left unchanged")

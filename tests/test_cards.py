@@ -74,6 +74,20 @@ class Readme(unittest.TestCase):
         self.assertIn('<source media="(prefers-color-scheme: dark)" srcset="assets/sansui-dark.svg">', pic)
         self.assertEqual(pic.count("<picture>"), 1)
 
+    def test_image_urls_carry_content_version(self):
+        v = {"header.svg": "aaa111", "sansui-light.svg": "bbb222", "sansui-dark.svg": "ccc333"}
+        body = readme.section(["header.svg"], "me", versions=v)
+        self.assertIn('src="assets/header.svg?v=aaa111"', body)
+        pic = readme.section(["sansui-light.svg", "sansui-dark.svg"], "me", versions=v)
+        self.assertIn('srcset="assets/sansui-dark.svg?v=ccc333"', pic)
+        self.assertIn('srcset="assets/sansui-light.svg?v=bbb222"', pic)
+        self.assertIn('src="assets/sansui-dark.svg?v=ccc333"', pic)
+
+    def test_version_is_a_short_content_hash(self):
+        self.assertEqual(readme.version("<svg/>"), readme.version("<svg/>"))
+        self.assertNotEqual(readme.version("<svg>a</svg>"), readme.version("<svg>b</svg>"))
+        self.assertRegex(readme.version("<svg/>"), r"^[0-9a-f]{8}$")
+
     def test_update_only_touches_marked_section(self):
         import tempfile
         with tempfile.TemporaryDirectory() as d:

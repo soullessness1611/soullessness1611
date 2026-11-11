@@ -1,10 +1,14 @@
 """Write the profile section of README.md for whichever style was generated.
 
 Only the text between the two markers is replaced, so the rest of the README is yours.
+Every image URL ends in ?v=<content hash>, so browsers and GitHub's image cache fetch a
+card again as soon as it changes (for example after switching style) instead of showing
+the old picture for a few minutes.
 """
 
 from __future__ import annotations
 
+import hashlib
 from pathlib import Path
 
 START = "<!-- PROFILE:START -->"
@@ -21,12 +25,21 @@ ALT = {
 }
 
 
-def section(files: list[str], login: str, assets: str = "assets") -> str:
+def version(svg: str) -> str:
+    return hashlib.sha1(svg.encode("utf-8")).hexdigest()[:8]
+
+
+def section(files: list[str], login: str, assets: str = "assets", versions: dict[str, str] | None = None) -> str:
     lines: list[str] = []
     done: set[str] = set()
+    versions = versions or {}
+
+    def url(name: str) -> str:
+        v = versions.get(name)
+        return f"{assets}/{name}?v={v}" if v else f"{assets}/{name}"
 
     def img(name: str, width: str) -> str:
-        return f'<img src="{assets}/{name}" alt="{ALT.get(name, name)}" width="{width}">'
+        return f'<img src="{url(name)}" alt="{ALT.get(name, name)}" width="{width}">'
 
     for name in files:
         if name in done:
@@ -39,13 +52,13 @@ def section(files: list[str], login: str, assets: str = "assets") -> str:
             if have_l and have_d:
                 lines.append(
                     f'<p align="center"><picture>'
-                    f'<source media="(prefers-color-scheme: dark)" srcset="{assets}/{dark}">'
-                    f'<source media="(prefers-color-scheme: light)" srcset="{assets}/{light}">'
-                    f'<img src="{assets}/{dark}" alt="{login} GitHub profile" width="100%"></picture></p>'
+                    f'<source media="(prefers-color-scheme: dark)" srcset="{url(dark)}">'
+                    f'<source media="(prefers-color-scheme: light)" srcset="{url(light)}">'
+                    f'<img src="{url(dark)}" alt="{login} GitHub profile" width="100%"></picture></p>'
                 )
             else:
                 only = light if have_l else dark
-                lines.append(f'<p align="center"><img src="{assets}/{only}" alt="{login} GitHub profile" '
+                lines.append(f'<p align="center"><img src="{url(only)}" alt="{login} GitHub profile" '
                              f'width="{"440" if stem == "receipt" else "100%"}"></p>')
             continue
         pair = next((p for p in PAIRS if name in p), None)
