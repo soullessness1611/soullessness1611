@@ -48,5 +48,5 @@
 </g>
 <text class="sm" x="976" y="34" text-anchor="end" style="fill:#ff2a6d">// TIME.09</text>
 <rect x="28" y="50" width="944" height="1" fill="#ff2a6d" opacity="0.35"/>
-<text class="lbl flicker" x="28" y="94" style="fill:#ff2a6d;font-size:14px">⚠ LINK ERROR</text><text class="sm" x="28" y="118">WakaTime API refused the request — HTTP 403: API Keys are only for plugins, use your personal oauth token (https://wakatime.com/oauth) instead.</text>
+<text class="lbl flicker" x="28" y="94" style="fill:#ff2a6d;font-size:14px">⚠ LINK ERROR</text><text class="sm" x="28" y="118">WakaTime API refused the request — HTTP 401: Unauthorized.</text>
 </svg>
