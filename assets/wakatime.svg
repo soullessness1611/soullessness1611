@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="WAKATIME // 7 DAYS">
+<title>WAKATIME // 7 DAYS</title>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="#16162b" stroke-width="1"/>
+  </pattern>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#ffffff" opacity="0.025"/>
+  </pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ff2a6d"/>
+    <stop offset="1" stop-color="#00f0ff"/>
+  </linearGradient>
+  <clipPath id="cut"><path d="M18,1 H999 V132 L982,149 H1 V18 Z"/></clipPath>
+</defs>
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; fill: #e2e2f0; }
+  .t { font-size: 18px; font-weight: 700; letter-spacing: 2px; }
+  .lbl { font-size: 12px; fill: #7a7a9e; letter-spacing: 1px; }
+  .val { font-size: 13px; font-weight: 700; }
+  .sm { font-size: 11px; fill: #7a7a9e; }
+  .big { font-size: 34px; font-weight: 800; }
+  .flicker { animation: flicker 6s infinite; }
+  .sweep { animation: sweep 7s linear infinite; }
+  .rise { animation: rise .9s ease-out both; }
+  @keyframes flicker { 0%,92%,96%,100% { opacity: 1; } 94% { opacity: .35; } }
+  @keyframes sweep { from { transform: translateY(-40px); } to { transform: translateY(190px); } }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .flicker, .sweep, .rise { animation: none; } }
+</style>
+<g clip-path="url(#cut)">
+  <rect width="1000" height="150" fill="#07070d"/>
+  <rect width="1000" height="150" fill="url(#grid)"/>
+  <rect width="1000" height="150" fill="url(#scan)"/>
+  <rect class="sweep" x="0" y="0" width="1000" height="38" fill="#ff2a6d" opacity="0.035"/>
+</g>
+<path d="M18,1 H999 V132 L982,149 H1 V18 Z" fill="none" stroke="url(#edge)" stroke-width="2"/>
+<path d="M1,48 V18 L18,1 H78" fill="none" stroke="#ff2a6d" stroke-width="4" filter="url(#glow)"/>
+<path d="M999,102 V132 L982,149 H922" fill="none" stroke="#ff2a6d" stroke-width="4" filter="url(#glow)"/>
+<g transform="translate(28,38)" class="flicker">
+  <text class="t" x="2" y="1" style="fill:#ff2a6d" opacity="0.7">WAKATIME // 7 DAYS</text>
+  <text class="t" x="-1.5" y="-1" style="fill:#00f0ff" opacity="0.7">WAKATIME // 7 DAYS</text>
+  <text class="t" x="0" y="0">WAKATIME // 7 DAYS</text>
+</g>
+<text class="sm" x="976" y="34" text-anchor="end" style="fill:#ff2a6d">// TIME.09</text>
+<rect x="28" y="50" width="944" height="1" fill="#ff2a6d" opacity="0.35"/>
+<text class="lbl flicker" x="28" y="94" style="fill:#ff2a6d;font-size:14px">⚠ LINK OFFLINE</text><text class="sm" x="28" y="118">Add a WAKATIME_API_KEY repository secret to stream coding-time telemetry here.</text>
+</svg>

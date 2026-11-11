@@ -1,0 +1,52 @@
+name: Update CyberPunk stats
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "generator/**"
+      - "config.json"
+      - ".github/workflows/update-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -t .
+
+      - name: Generate SVG cards
+        env:
+          # GH_PAT (classic token, scopes: read:user, repo) adds private contributions;
+          # without it the built-in token still covers public data.
+          GH_TOKEN: ${{ secrets.GH_PAT || github.token }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python -m generator --out assets
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore(stats): refresh SVG cards [skip ci]"
+            git push
+          fi

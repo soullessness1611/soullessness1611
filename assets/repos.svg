@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="260" viewBox="0 0 495 260" role="img" aria-label="REPOSITORIES &amp; STARS">
+<title>REPOSITORIES &amp; STARS</title>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M24 0H0V24" fill="none" stroke="#16162b" stroke-width="1"/>
+  </pattern>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#ffffff" opacity="0.025"/>
+  </pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f9f002"/>
+    <stop offset="1" stop-color="#ff2a6d"/>
+  </linearGradient>
+  <clipPath id="cut"><path d="M18,1 H494 V242 L477,259 H1 V18 Z"/></clipPath>
+</defs>
+<style>
+  text { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; fill: #e2e2f0; }
+  .t { font-size: 18px; font-weight: 700; letter-spacing: 2px; }
+  .lbl { font-size: 12px; fill: #7a7a9e; letter-spacing: 1px; }
+  .val { font-size: 13px; font-weight: 700; }
+  .sm { font-size: 11px; fill: #7a7a9e; }
+  .big { font-size: 34px; font-weight: 800; }
+  .flicker { animation: flicker 6s infinite; }
+  .sweep { animation: sweep 7s linear infinite; }
+  .rise { animation: rise .9s ease-out both; }
+  @keyframes flicker { 0%,92%,96%,100% { opacity: 1; } 94% { opacity: .35; } }
+  @keyframes sweep { from { transform: translateY(-40px); } to { transform: translateY(300px); } }
+  @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) { .flicker, .sweep, .rise { animation: none; } }
+</style>
+<g clip-path="url(#cut)">
+  <rect width="495" height="260" fill="#07070d"/>
+  <rect width="495" height="260" fill="url(#grid)"/>
+  <rect width="495" height="260" fill="url(#scan)"/>
+  <rect class="sweep" x="0" y="0" width="495" height="38" fill="#f9f002" opacity="0.035"/>
+</g>
+<path d="M18,1 H494 V242 L477,259 H1 V18 Z" fill="none" stroke="url(#edge)" stroke-width="2"/>
+<path d="M1,48 V18 L18,1 H78" fill="none" stroke="#f9f002" stroke-width="4" filter="url(#glow)"/>
+<path d="M494,212 V242 L477,259 H417" fill="none" stroke="#ff2a6d" stroke-width="4" filter="url(#glow)"/>
+<g transform="translate(28,38)" class="flicker">
+  <text class="t" x="2" y="1" style="fill:#ff2a6d" opacity="0.7">REPOSITORIES &amp; STARS</text>
+  <text class="t" x="-1.5" y="-1" style="fill:#00f0ff" opacity="0.7">REPOSITORIES &amp; STARS</text>
+  <text class="t" x="0" y="0">REPOSITORIES &amp; STARS</text>
+</g>
+<text class="sm" x="471" y="34" text-anchor="end" style="fill:#f9f002">// REPO.04</text>
+<rect x="28" y="50" width="439" height="1" fill="#f9f002" opacity="0.35"/>
+<rect x="28.0" y="66" width="139.66666666666666" height="62" fill="#0d0d18" stroke="#00f0ff" stroke-opacity="0.6"/><rect x="28.0" y="66" width="139.66666666666666" height="3" fill="#00f0ff" filter="url(#glow)"/><text x="97.83333333333333" y="104" text-anchor="middle" style="font-size:24px;font-weight:800;fill:#00f0ff">16</text><text x="97.83333333333333" y="120" text-anchor="middle" class="sm">REPOS</text><rect x="177.66666666666666" y="66" width="139.66666666666666" height="62" fill="#0d0d18" stroke="#f9f002" stroke-opacity="0.6"/><rect x="177.66666666666666" y="66" width="139.66666666666666" height="3" fill="#f9f002" filter="url(#glow)"/><text x="247.5" y="104" text-anchor="middle" style="font-size:24px;font-weight:800;fill:#f9f002">0</text><text x="247.5" y="120" text-anchor="middle" class="sm">STARS</text><rect x="327.3333333333333" y="66" width="139.66666666666666" height="62" fill="#0d0d18" stroke="#ff2a6d" stroke-opacity="0.6"/><rect x="327.3333333333333" y="66" width="139.66666666666666" height="3" fill="#ff2a6d" filter="url(#glow)"/><text x="397.16666666666663" y="104" text-anchor="middle" style="font-size:24px;font-weight:800;fill:#ff2a6d">0</text><text x="397.16666666666663" y="120" text-anchor="middle" class="sm">FORKS</text><text class="lbl" x="28" y="152" style="fill:#00f0ff">&gt; TOP REPOSITORIES</text><g class="rise" style="animation-delay:0.20s"><circle cx="33" cy="172" r="4" fill="#3572A5"/><text class="val" x="44" y="176" style="font-size:12px">github-stats</text><text class="sm" x="405" y="176" text-anchor="end" style="fill:#f9f002">★ 0</text><text class="sm" x="467" y="176" text-anchor="end" style="fill:#ff2a6d">⑂ 0</text></g><g class="rise" style="animation-delay:0.28s"><circle cx="33" cy="193" r="4" fill="#f1e05a"/><text class="val" x="44" y="197" style="font-size:12px">ZeN-GoSensei-Bridge</text><text class="sm" x="405" y="197" text-anchor="end" style="fill:#f9f002">★ 0</text><text class="sm" x="467" y="197" text-anchor="end" style="fill:#ff2a6d">⑂ 0</text></g><g class="rise" style="animation-delay:0.36s"><circle cx="33" cy="214" r="4" fill="#3572A5"/><text class="val" x="44" y="218" style="font-size:12px">ZeN-AgentsOS</text><text class="sm" x="405" y="218" text-anchor="end" style="fill:#f9f002">★ 0</text><text class="sm" x="467" y="218" text-anchor="end" style="fill:#ff2a6d">⑂ 0</text></g><g class="rise" style="animation-delay:0.44s"><circle cx="33" cy="235" r="4" fill="#000080"/><text class="val" x="44" y="239" style="font-size:12px">nvim-public</text><text class="sm" x="405" y="239" text-anchor="end" style="fill:#f9f002">★ 0</text><text class="sm" x="467" y="239" text-anchor="end" style="fill:#ff2a6d">⑂ 0</text></g>
+</svg>

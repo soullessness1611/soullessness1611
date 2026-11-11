@@ -1,0 +1,18 @@
+{
+  "username": "soullessness1611",
+  "display_name": "SouLLesSNesSZeN",
+  "tagline": "NETRUNNER // FULL-STACK DEV // DATA & AUTOMATION",
+  "timezone": "Asia/Bangkok",
+  "include_private_repos": false,
+  "exclude_repos": ["soullessness1611"],
+  "exclude_languages": ["Jupyter Notebook"],
+  "top_languages_count": 8,
+  "latest_projects_count": 6,
+  "commit_activity_repo_limit": 30,
+  "skills": {
+    "LANGUAGES": ["Python", "TypeScript", "JavaScript", "Lua", "SQL", "Bash"],
+    "FRONTEND": ["Next.js", "React", "Tailwind CSS", "HTML5", "CSS3"],
+    "BACKEND & DATA": ["Node.js", "MongoDB", "Pandas", "Plotly / Dash", "Jupyter", "scikit-learn"],
+    "DEVOPS & TOOLS": ["Docker", "Ansible", "Git", "GitHub Actions", "Linux", "Neovim"]
+  }
+}
