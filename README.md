@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/contributions.svg?v=6f194e40" alt="Contribution graph" width="100%">
+  <img src="assets/contributions.svg?v=69f338a6" alt="Contribution graph" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/activity.svg?v=c28be29d" alt="Commit activity" width="100%">
+  <img src="assets/activity.svg?v=d6b9a2a7" alt="Commit activity" width="100%">
 </p>
 
 <p align="center">
