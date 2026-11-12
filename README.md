@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="assets/stats.svg?v=31497519" alt="GitHub stats" width="49%">
-  <img src="assets/streak.svg?v=70362fa8" alt="Contribution streak" width="49%">
+  <img src="assets/streak.svg?v=c9080716" alt="Contribution streak" width="49%">
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/contributions.svg?v=7762c5df" alt="Contribution graph" width="100%">
+  <img src="assets/contributions.svg?v=637137be" alt="Contribution graph" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/activity.svg?v=32b99872" alt="Commit activity" width="100%">
+  <img src="assets/activity.svg?v=f15fa766" alt="Commit activity" width="100%">
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=8e4b2f41" alt="Latest projects" width="100%"></a>
+  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=9265f053" alt="Latest projects" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="assets/waka-overview.svg?v=cf8b7a79" alt="WakaTime coding time" width="100%">
+  <img src="assets/waka-overview.svg?v=41871707" alt="WakaTime coding time" width="100%">
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/waka-rhythm.svg?v=65725fc0" alt="Coding rhythm" width="100%">
+  <img src="assets/waka-rhythm.svg?v=6e15e868" alt="Coding rhythm" width="100%">
 </p>
 <!-- PROFILE:END -->
 
