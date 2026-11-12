@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/contributions.svg?v=637137be" alt="Contribution graph" width="100%">
+  <img src="assets/contributions.svg?v=be2da3be" alt="Contribution graph" width="100%">
 </p>
 
 <p align="center">
@@ -26,24 +26,24 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=9265f053" alt="Latest projects" width="100%"></a>
+  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=d05de26b" alt="Latest projects" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="assets/waka-overview.svg?v=41871707" alt="WakaTime coding time" width="100%">
+  <img src="assets/waka-overview.svg?v=da55d452" alt="WakaTime coding time" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-ai.svg?v=1c550b83" alt="AI coding" width="100%">
+  <img src="assets/waka-ai.svg?v=6f1e9c63" alt="AI coding" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-projects.svg?v=91d956d5" alt="WakaTime projects" width="49%">
-  <img src="assets/waka-tools.svg?v=39458653" alt="Editors and tools" width="49%">
+  <img src="assets/waka-projects.svg?v=f210ede8" alt="WakaTime projects" width="49%">
+  <img src="assets/waka-tools.svg?v=f5e7408e" alt="Editors and tools" width="49%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-rhythm.svg?v=6e15e868" alt="Coding rhythm" width="100%">
+  <img src="assets/waka-rhythm.svg?v=3318286b" alt="Coding rhythm" width="100%">
 </p>
 <!-- PROFILE:END -->
 
