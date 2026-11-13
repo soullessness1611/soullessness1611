@@ -22,7 +22,7 @@
 <circle cx="32" cy="53" r="2" fill="#c0503b"/>
 <rect x="40" y="52.5" width="423" height="1" fill="#e9e2d2" opacity="0.14"/>
 <g class="rise" style="animation-delay:0.00s"><rect x="28" y="71" width="4" height="10" fill="#c9a24a"/><text class="lbl" x="40" y="80">TOTAL STARS</text><text class="val" x="300" y="80" text-anchor="end" style="fill:#c9a24a">0</text></g>
-<g class="rise" style="animation-delay:0.08s"><rect x="28" y="92" width="4" height="10" fill="#9fb7c9"/><text class="lbl" x="40" y="101">COMMITS (2026)</text><text class="val" x="300" y="101" text-anchor="end" style="fill:#9fb7c9">1.2k</text></g>
+<g class="rise" style="animation-delay:0.08s"><rect x="28" y="92" width="4" height="10" fill="#9fb7c9"/><text class="lbl" x="40" y="101">COMMITS (2026)</text><text class="val" x="300" y="101" text-anchor="end" style="fill:#9fb7c9">1.3k</text></g>
 <g class="rise" style="animation-delay:0.16s"><rect x="28" y="113" width="4" height="10" fill="#9fb7c9"/><text class="lbl" x="40" y="122">TOTAL COMMITS</text><text class="val" x="300" y="122" text-anchor="end" style="fill:#9fb7c9">1.8k</text></g>
 <g class="rise" style="animation-delay:0.24s"><rect x="28" y="134" width="4" height="10" fill="#d0644c"/><text class="lbl" x="40" y="143">PULL REQUESTS</text><text class="val" x="300" y="143" text-anchor="end" style="fill:#d0644c">10</text></g>
 <g class="rise" style="animation-delay:0.32s"><rect x="28" y="155" width="4" height="10" fill="#a08aa8"/><text class="lbl" x="40" y="164">ISSUES</text><text class="val" x="300" y="164" text-anchor="end" style="fill:#a08aa8">6</text></g>
