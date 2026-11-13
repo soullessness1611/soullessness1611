@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="assets/languages.svg?v=993b85df" alt="Top languages" width="49%">
-  <img src="assets/repos.svg?v=15d9506e" alt="Repositories and stars" width="49%">
+  <img src="assets/repos.svg?v=c8455942" alt="Repositories and stars" width="49%">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=d05de26b" alt="Latest projects" width="100%"></a>
+  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=aa0140a9" alt="Latest projects" width="100%"></a>
 </p>
 
 <p align="center">
