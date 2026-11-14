@@ -30,16 +30,16 @@
 </p>
 
 <p align="center">
-  <img src="assets/waka-overview.svg?v=4cc49d8a" alt="WakaTime coding time" width="100%">
+  <img src="assets/waka-overview.svg?v=99faab60" alt="WakaTime coding time" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-ai.svg?v=7643ba69" alt="AI coding" width="100%">
+  <img src="assets/waka-ai.svg?v=7660c8cf" alt="AI coding" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-projects.svg?v=b7abd2c6" alt="WakaTime projects" width="49%">
-  <img src="assets/waka-tools.svg?v=d4904c1b" alt="Editors and tools" width="49%">
+  <img src="assets/waka-projects.svg?v=3419da42" alt="WakaTime projects" width="49%">
+  <img src="assets/waka-tools.svg?v=596aa44d" alt="Editors and tools" width="49%">
 </p>
 
 <p align="center">
