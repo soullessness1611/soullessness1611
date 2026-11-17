@@ -22,7 +22,7 @@
 <circle cx="32" cy="53" r="2" fill="#c0503b"/>
 <rect x="40" y="52.5" width="423" height="1" fill="#e9e2d2" opacity="0.14"/>
 
-<text x="82" y="128" text-anchor="middle" style="font-size:26px;font-weight:800;fill:#c9a24a">2.1k</text><text x="82" y="152" text-anchor="middle" class="lbl">TOTAL</text><text x="82" y="200" text-anchor="middle" class="sm">SINCE 01 JAN 2023</text>
+<text x="82" y="128" text-anchor="middle" style="font-size:26px;font-weight:800;fill:#c9a24a">2.2k</text><text x="82" y="152" text-anchor="middle" class="lbl">TOTAL</text><text x="82" y="200" text-anchor="middle" class="sm">SINCE 01 JAN 2023</text>
 <circle cx="247.5" cy="128" r="46" fill="#1d1b18" stroke="#2a2723" stroke-width="7"/>
 <circle cx="247.5" cy="128" r="46" fill="none" stroke="#d0644c" stroke-width="7" stroke-linecap="round"
   stroke-dasharray="130.1 289.0" transform="rotate(-90 247.5 128)" filter="url(#glow)"/>
