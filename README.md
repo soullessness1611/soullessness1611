@@ -10,11 +10,11 @@
 
 <p align="center">
   <img src="assets/languages.svg?v=993b85df" alt="Top languages" width="49%">
-  <img src="assets/repos.svg?v=c8455942" alt="Repositories and stars" width="49%">
+  <img src="assets/repos.svg?v=15d9506e" alt="Repositories and stars" width="49%">
 </p>
 
 <p align="center">
-  <img src="assets/contributions.svg?v=d44588bf" alt="Contribution graph" width="100%">
+  <img src="assets/contributions.svg?v=d6c16938" alt="Contribution graph" width="100%">
 </p>
 
 <p align="center">
@@ -26,24 +26,24 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=aa0140a9" alt="Latest projects" width="100%"></a>
+  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=d05de26b" alt="Latest projects" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="assets/waka-overview.svg?v=e654b8c3" alt="WakaTime coding time" width="100%">
+  <img src="assets/waka-overview.svg?v=5dc44a09" alt="WakaTime coding time" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-ai.svg?v=aed4fb93" alt="AI coding" width="100%">
+  <img src="assets/waka-ai.svg?v=d5433d01" alt="AI coding" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-projects.svg?v=2e7cb35b" alt="WakaTime projects" width="49%">
-  <img src="assets/waka-tools.svg?v=72f6a246" alt="Editors and tools" width="49%">
+  <img src="assets/waka-projects.svg?v=a390b699" alt="WakaTime projects" width="49%">
+  <img src="assets/waka-tools.svg?v=e9063b03" alt="Editors and tools" width="49%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-rhythm.svg?v=9138c307" alt="Coding rhythm" width="100%">
+  <img src="assets/waka-rhythm.svg?v=cc89c695" alt="Coding rhythm" width="100%">
 </p>
 <!-- PROFILE:END -->
 
