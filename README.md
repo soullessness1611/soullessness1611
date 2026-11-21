@@ -5,16 +5,16 @@
 
 <p align="center">
   <img src="assets/stats.svg?v=cee029a8" alt="GitHub stats" width="49%">
-  <img src="assets/streak.svg?v=31545f8b" alt="Contribution streak" width="49%">
+  <img src="assets/streak.svg?v=fb5b43a3" alt="Contribution streak" width="49%">
 </p>
 
 <p align="center">
   <img src="assets/languages.svg?v=993b85df" alt="Top languages" width="49%">
-  <img src="assets/repos.svg?v=c8455942" alt="Repositories and stars" width="49%">
+  <img src="assets/repos.svg?v=15d9506e" alt="Repositories and stars" width="49%">
 </p>
 
 <p align="center">
-  <img src="assets/contributions.svg?v=d6c16938" alt="Contribution graph" width="100%">
+  <img src="assets/contributions.svg?v=b066e6f8" alt="Contribution graph" width="100%">
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=aa0140a9" alt="Latest projects" width="100%"></a>
+  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=d05de26b" alt="Latest projects" width="100%"></a>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/waka-rhythm.svg?v=cc89c695" alt="Coding rhythm" width="100%">
+  <img src="assets/waka-rhythm.svg?v=34825f32" alt="Coding rhythm" width="100%">
 </p>
 <!-- PROFILE:END -->
 
