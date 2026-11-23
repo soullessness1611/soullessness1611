@@ -4,21 +4,21 @@
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg?v=cee029a8" alt="GitHub stats" width="49%">
-  <img src="assets/streak.svg?v=fb5b43a3" alt="Contribution streak" width="49%">
+  <img src="assets/stats.svg?v=8b1225c1" alt="GitHub stats" width="49%">
+  <img src="assets/streak.svg?v=378eb161" alt="Contribution streak" width="49%">
 </p>
 
 <p align="center">
   <img src="assets/languages.svg?v=993b85df" alt="Top languages" width="49%">
-  <img src="assets/repos.svg?v=c8455942" alt="Repositories and stars" width="49%">
+  <img src="assets/repos.svg?v=15d9506e" alt="Repositories and stars" width="49%">
 </p>
 
 <p align="center">
-  <img src="assets/contributions.svg?v=e98a8b70" alt="Contribution graph" width="100%">
+  <img src="assets/contributions.svg?v=44366b6f" alt="Contribution graph" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/activity.svg?v=08022b75" alt="Commit activity" width="100%">
+  <img src="assets/activity.svg?v=383d3e88" alt="Commit activity" width="100%">
 </p>
 
 <p align="center">
@@ -26,24 +26,24 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=aa0140a9" alt="Latest projects" width="100%"></a>
+  <a href="https://github.com/soullessness1611?tab=repositories"><img src="assets/projects.svg?v=d05de26b" alt="Latest projects" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="assets/waka-overview.svg?v=fe96cc33" alt="WakaTime coding time" width="100%">
+  <img src="assets/waka-overview.svg?v=e710c6b6" alt="WakaTime coding time" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-ai.svg?v=19ab713f" alt="AI coding" width="100%">
+  <img src="assets/waka-ai.svg?v=1e7dce44" alt="AI coding" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-projects.svg?v=9bc6ffa3" alt="WakaTime projects" width="49%">
-  <img src="assets/waka-tools.svg?v=f400394f" alt="Editors and tools" width="49%">
+  <img src="assets/waka-projects.svg?v=93f57cf3" alt="WakaTime projects" width="49%">
+  <img src="assets/waka-tools.svg?v=c5cb1b92" alt="Editors and tools" width="49%">
 </p>
 
 <p align="center">
-  <img src="assets/waka-rhythm.svg?v=d5c57c9c" alt="Coding rhythm" width="100%">
+  <img src="assets/waka-rhythm.svg?v=6e1f6251" alt="Coding rhythm" width="100%">
 </p>
 <!-- PROFILE:END -->
 
