@@ -27,7 +27,7 @@
 <g class="rise" style="animation-delay:0.24s"><rect x="28" y="134" width="4" height="10" fill="#d0644c"/><text class="lbl" x="40" y="143">PULL REQUESTS</text><text class="val" x="300" y="143" text-anchor="end" style="fill:#d0644c">10</text></g>
 <g class="rise" style="animation-delay:0.32s"><rect x="28" y="155" width="4" height="10" fill="#a08aa8"/><text class="lbl" x="40" y="164">ISSUES</text><text class="val" x="300" y="164" text-anchor="end" style="fill:#a08aa8">6</text></g>
 <g class="rise" style="animation-delay:0.40s"><rect x="28" y="176" width="4" height="10" fill="#8fa86f"/><text class="lbl" x="40" y="185">CONTRIBUTED TO</text><text class="val" x="300" y="185" text-anchor="end" style="fill:#8fa86f">0</text></g>
-<g class="rise" style="animation-delay:0.48s"><rect x="28" y="197" width="4" height="10" fill="#c9a24a"/><text class="lbl" x="40" y="206">FOLLOWERS</text><text class="val" x="300" y="206" text-anchor="end" style="fill:#c9a24a">18</text></g>
+<g class="rise" style="animation-delay:0.48s"><rect x="28" y="197" width="4" height="10" fill="#c9a24a"/><text class="lbl" x="40" y="206">FOLLOWERS</text><text class="val" x="300" y="206" text-anchor="end" style="fill:#c9a24a">19</text></g>
 <circle cx="395" cy="140" r="58" fill="#1d1b18" stroke="#9fb7c9" stroke-width="1.5"/><circle cx="395" cy="140" r="64" fill="none" stroke="#d0644c" stroke-width="1" opacity="0.4" stroke-dasharray="2 5"/>
 <text x="395" y="144" text-anchor="middle" style="font-size:24px;font-weight:800;fill:#9fb7c9">2.3k</text>
 <text x="395" y="162" text-anchor="middle" class="sm">CONTRIBS</text>
